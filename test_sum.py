@@ -1,4 +1,4 @@
-from sum import sumar def test_sumar_positivos():
+from sum import sumar
 
 def test_sumar_positivos():
     assert sumar(2, 3) == 5
